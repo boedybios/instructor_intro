@@ -1,0 +1,13 @@
+[project]
+name = "instructor-intro"
+version = "0.1.0"
+description = "Workshop on Intro to Instructor"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "instructor>=1.9.2",
+    "ipykernel>=6.29.5",
+    "python-dotenv>=1.1.1",
+    "trafilatura>=2.0.0",
+    "typing-extensions>=4.14.1",
+]
